@@ -29,24 +29,6 @@ All solutions are stored in a single file:
     ./solutions
     ```
 
-## List of Problems and Solutions
-
-Below is a list of the problems solved in this repository, along with their corresponding function names in `solutions.c`:
-
-1. **Problem Name 1**  
-   - **Function Name**: `problem1()`
-   - **Description**: A brief description of the problem and the approach used in the solution.
-
-2. **Problem Name 2**  
-   - **Function Name**: `problem2()`
-   - **Description**: A brief description of the problem and the approach used in the solution.
-
-3. **Problem Name 3**  
-   - **Function Name**: `problem3()`
-   - **Description**: A brief description of the problem and the approach used in the solution.
-
-... *(continue this list for all problems)*
-
 ## Contributions
 
 If you have any suggestions or improvements for these solutions, feel free to open an issue or submit a pull request. Contributions are always welcome!

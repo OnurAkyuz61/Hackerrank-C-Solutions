@@ -39,7 +39,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, you can reach me at onurakyuz@example.com or visit my [GitHub profile](https://github.com/OnurAkyuz61).
+For any questions or feedback, you can reach me at onur@onurakyuz.com or visit my [GitHub profile](https://github.com/OnurAkyuz61).
 
 ---
 
